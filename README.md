@@ -1,4 +1,4 @@
-# Character List
+# Modern Login
 
 This project is about a Modern Login, it is made with HTML, CSS and Sass
 
